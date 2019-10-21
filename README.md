@@ -1,2 +1,2 @@
 # IMDb-web-scraping
-Movie recommendation based on emotion.
+Movie recommendation based on entered emotion in Python
